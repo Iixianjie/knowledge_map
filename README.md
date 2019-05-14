@@ -1,2 +1,7 @@
 # knowledge_map
-自己总结的一份知识图谱，再也不怕没有学的啦！
+> EXP + 1  
+> HP - 1
+
+enjoy it!!
+
+![knowledge_map](./DEVELOPER.png)
