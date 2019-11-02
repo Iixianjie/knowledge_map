@@ -1,4 +1,4 @@
-> Exp + 1 => Hp - 1 + Hair -n
+> EXP + 1 => HP - 1 + Hair - n
 
 ## plan-board
 <https://github.com/Iixianjie/study-plan/projects/1>
